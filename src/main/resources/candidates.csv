@@ -1,0 +1,4 @@
+id,cicId,fullName,email,mobileNum,hiredDate,degree,aggregatePercentage,city,state,preferredJobLocation,status,passedOutYear,candidateStatus
+1,001,Sree,sr@gmail.com,8919584625,20/02/2022,b.tech,63.0,bks,ap,hyd,sssd,2021,complete
+2,002,Sai,sai@gmail.com,1234567899,25/05/2022,b.tech,70.0,atp,ap,ban,asda,2021,complete
+3,003,Siva,siva@gmail.com,123456789,10/07/2022,b.tech,56.0,bks,ap,hyd,asda,2021,complete
